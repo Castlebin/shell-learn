@@ -1,0 +1,11 @@
+Script started on Fri 04 Apr 2014 02:28:33 AM EDT
+]0;heller@debian7-0: ~/studycode/linuxshell/ch02[01;32mheller@debian7-0[00m:[01;34m~/studycode/linuxshell/ch02[00m$ ll
+total 8
+-rw-r--r-- 1 heller heller 3048 Apr  4 02:23 output.session
+prw-r--r-- 1 heller heller    0 Apr  4 02:28 [0m[40;33mscriptfifo[0m
+-rw-r--r-- 1 heller heller  682 Apr  4 02:23 timing.log
+-rw-r--r-- 1 heller heller    0 Apr  4 02:28 typescript
+]0;heller@debian7-0: ~/studycode/linuxshell/ch02[01;32mheller@debian7-0[00m:[01;34m~/studycode/linuxshell/ch02[00m$ exit
+exit
+
+Script done on Fri 04 Apr 2014 02:28:40 AM EDT
